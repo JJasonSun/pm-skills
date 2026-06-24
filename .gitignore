@@ -1,3 +1,6 @@
 # Private maintainer-only files — never commit
 _Internal/
 CLAUDE.local.md
+
+# Build output (regenerate with: python3 targets/qoderwork/convert.py)
+build/

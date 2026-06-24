@@ -5,6 +5,8 @@
 [![Companion: burnstop](https://img.shields.io/badge/companion-burnstop-blue)](https://github.com/phuryn/burnstop)
 [![Companion: claude-usage](https://img.shields.io/badge/companion-claude--usage-blue)](https://github.com/phuryn/claude-usage)
 
+English | [中文](README_zh.md)
+
 # PM Skills Marketplace: The AI Operating System for Better Product Decisions
 
 > 68 PM skills and 42 chained workflows across 9 plugins. Claude Code, Cowork, and more. From discovery to strategy, execution, launch, growth, and shipping AI-built code. 
